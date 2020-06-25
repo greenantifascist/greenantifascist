@@ -1,0 +1,25 @@
+
+body {
+  background-color:#D7EBD2;
+  font-family: 'Homenaje', sans-serif;
+  font-size:1.2em;
+}
+#outer-wrapper {
+  width:1100px;
+  margin:auto;
+}
+.zine-cover {
+  width:450px;
+}
+#left-side, #right-side {
+  float:left;
+}
+#left-side {
+  width:450;
+}
+#right-side {
+  width:650
+}
+.infobox {
+  padding: 2em;
+}
